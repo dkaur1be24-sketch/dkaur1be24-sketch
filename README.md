@@ -8,12 +8,6 @@
   Machine Learning, Computer Vision, Explainable AI, and Data Analytics.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/diljeet-kaur-70a15736a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 <br />
 
 ## 👩‍💻 About Me
@@ -51,7 +45,7 @@
     <td><b>Reach Me</b><br />
       <a href="https://www.linkedin.com/in/diljeet-kaur-70a15736a/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-      </a> [Diljeet Kaur | LinkedIn](https://www.linkedin.com/in/diljeet-kaur-70a15736a/)
+      </a>   (https://www.linkedin.com/in/diljeet-kaur-70a15736a/)
     </td>
   </tr>
 </table>
@@ -119,7 +113,7 @@ A touchless media controller built with **OpenCV** and **MediaPipe**, capable of
 <p align="left">
   <a href="https://www.linkedin.com/in/diljeet-kaur-70a15736a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> [Diljeet Kaur | LinkedIn](https://www.linkedin.com/in/diljeet-kaur-70a15736a/)
+  </a>   (https://www.linkedin.com/in/diljeet-kaur-70a15736a/)
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
