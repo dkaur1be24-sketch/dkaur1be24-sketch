@@ -99,7 +99,6 @@ Git • GitHub • VS Code • Jupyter Notebook
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dkaur1be24-sketch&show_icons=true&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
