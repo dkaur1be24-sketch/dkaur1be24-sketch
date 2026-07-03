@@ -22,7 +22,7 @@
 - 📍 Punjab, India
 - 💡 Passionate about **AI**, **Machine Learning**, **Explainable AI (XAI)**, **Data Analytics**, **Computer Vision**, and **Deep Learning**
 - 🌱 Currently learning **Advanced SQL**, **Business Intelligence**, and **Deep Learning**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/diljeet-kaur-70a15736a/)
+- 📫 Reach me on [LinkedIn]https://www.linkedin.com/in/diljeet-kaur-70a15736a/
 
 <br />
 
@@ -86,15 +86,9 @@ A touchless media controller built with **OpenCV** and **MediaPipe**, capable of
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diljeetkaur08&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Diljeetkaur08&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diljeetkaur08&layout=compact&hide_border=true" />
-</p>
 
-> ⚠️ Replace `Diljeetkaur08` in the stats links above with your exact GitHub username so the cards pull your real data.
 
-<br />
 
 ## 🤝 Connect with Me
 
