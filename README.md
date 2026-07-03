@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Diljeet Kaur</h1>
 
 <h3 align="center">
-AI & ML Enthusiast | Aspiring Data Analyst | Computer Vision Researcher
+AI & ML Enthusiast • Aspiring Data Analyst • Computer Vision Explorer
 </h3>
 
 <p align="center">
-Building AI systems that solve real-world problems through Machine Learning, Computer Vision, Explainable AI and Data Analytics.
+I enjoy building intelligent systems that solve real-world problems using
+Machine Learning, Computer Vision, Explainable AI, and Data Analytics.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech DSAI student 
+🎓 B.Tech DSAI student
 
-📍 India
+📍 Punjab, India
 
 💡 Passionate about
 
@@ -28,16 +29,40 @@ Building AI systems that solve real-world problems through Machine Learning, Com
 🌱 Currently Learning
 
 - Advanced SQL
+- Business Intelligence
 - Deep Learning
-- Business Analytics
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Tech Stack
 
-### 🧠 Explainable AI for Image Classification
+### Languages
 
-A complete Explainable AI framework comparing
+Python • SQL • C++
+
+### Data Analytics
+
+Excel • SQL • Pandas • NumPy • Power BI • Tableau
+
+### Machine Learning
+
+Scikit-learn • PyTorch 
+
+### Computer Vision
+
+OpenCV • MediaPipe
+
+### Tools
+
+Git • GitHub • VS Code • Jupyter Notebook
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Explainable AI for Image Classification
+
+A comparative study of Explainable AI techniques including
 
 - Grad-CAM
 - LIME
@@ -48,60 +73,38 @@ using both qualitative and quantitative evaluation metrics.
 
 ---
 
-### 🎥 Real-Time Gesture Based Media Controller
+## 🎥 Real-Time Gesture Based Media Controller
 
-Computer Vision based system that allows users to control media through
+Built a touchless media controller capable of
 
-- Smile Detection
 - Face Recognition
-- Hand Gestures
-- MediaPipe
-- OpenCV
+- Smile Detection
+- Hand Gesture Recognition
+- Real-time System Control
+
+using OpenCV and MediaPipe.
 
 ---
 
----
 
-## 💻 Technical Skills
+# 🔬 Areas of Interest
 
-**Languages**
-
-Python • SQL • C++
-
-**Libraries**
-
-Pandas • NumPy • Matplotlib • OpenCV • Scikit-learn • PyTorch 
-
-**Data Analytics**
-
-SQL • Excel •  BigQuery
-
-**AI / ML**
-
-Machine Learning • Deep Learning • Computer Vision • Explainable AI
-
-**Tools**
-
-Git • GitHub • VS Code • Jupyter Notebook
-
----
-
-## 📚 Currently Exploring
-
-- Explainable AI Research
+- Explainable AI
+- Machine Learning
+- Data Analytics
+- Computer Vision
 - Business Intelligence
-- Deep Learning
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkaur1be24-sketch&show_icons=true&theme=tokyonight" />
-</p>
+I actively use GitHub to document projects, experiment with new ideas, and continuously improve my technical skills through hands-on learning.
+
 ---
 
-## 🤝 Let's Connect
+# 🤝 Connect with Me
 
-LinkedIn :https://www.linkedin.com/in/diljeet-kaur-70a15736a/
+💼 LinkedIn : https://www.linkedin.com/in/diljeet-kaur-70a15736a/
 
+⭐ Thanks for visiting my profile!
