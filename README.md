@@ -18,11 +18,43 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech DSAI student
-- 📍 Punjab, India
-- 💡 Passionate about **AI**, **Machine Learning**, **Explainable AI (XAI)**, **Data Analytics**, **Computer Vision**, and **Deep Learning**
-- 🌱 Currently learning **Advanced SQL**, **Business Intelligence**, and **Deep Learning**
-- 📫 Reach me on [LinkedIn]    (https://www.linkedin.com/in/diljeet-kaur-70a15736a/)
+<table>
+  <tr>
+    <td valign="top" width="40">🎓</td>
+    <td><b>Education</b><br />B.Tech in Data Science & AI (DSAI)</td>
+  </tr>
+  <tr>
+    <td valign="top">📍</td>
+    <td><b>Location</b><br />Punjab, India</td>
+  </tr>
+  <tr>
+    <td valign="top">💡</td>
+    <td><b>Passionate About</b><br />
+      <img src="https://img.shields.io/badge/AI-8E44AD?style=flat-square" />
+      <img src="https://img.shields.io/badge/Machine_Learning-D35400?style=flat-square" />
+      <img src="https://img.shields.io/badge/Explainable_AI-2980B9?style=flat-square" />
+      <img src="https://img.shields.io/badge/Data_Analytics-16A085?style=flat-square" />
+      <img src="https://img.shields.io/badge/Computer_Vision-C0392B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Deep_Learning-2C3E50?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">🌱</td>
+    <td><b>Currently Learning</b><br />
+      <img src="https://img.shields.io/badge/Advanced_SQL-4479A1?style=flat-square" />
+      <img src="https://img.shields.io/badge/Business_Intelligence-F39C12?style=flat-square" />
+      <img src="https://img.shields.io/badge/Deep_Learning-2C3E50?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">📫</td>
+    <td><b>Reach Me</b><br />
+      <a href="https://www.linkedin.com/in/diljeet-kaur-70a15736a/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -37,7 +69,7 @@
 **Data Analytics**
 <br />
 <p>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />  <img src="https://img.shields.io/badge/BigQuery-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
 </p>
 
 **Machine Learning**
