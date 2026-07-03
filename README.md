@@ -81,15 +81,6 @@ A touchless media controller built with **OpenCV** and **MediaPipe**, capable of
 
 <br />
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diljeetkaur08&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Diljeetkaur08&hide_border=true" />
-
-
-
-
 ## 🤝 Connect with Me
 
 <p align="center">
