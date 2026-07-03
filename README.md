@@ -22,42 +22,41 @@
 - 📍 Punjab, India
 - 💡 Passionate about **AI**, **Machine Learning**, **Explainable AI (XAI)**, **Data Analytics**, **Computer Vision**, and **Deep Learning**
 - 🌱 Currently learning **Advanced SQL**, **Business Intelligence**, and **Deep Learning**
-- 📫 Reach me on [LinkedIn]https://www.linkedin.com/in/diljeet-kaur-70a15736a/
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/diljeet-kaur-70a15736a/)
 
 <br />
 
 ## 💻 Tech Stack
 
 **Languages**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<br />
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
 
 **Data Analytics**
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<br />
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
 
 **Machine Learning**
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<br />
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
 
 **Computer Vision**
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+<br />
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+</p>
 
 **Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<br />
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
 
 <br />
 
@@ -77,7 +76,24 @@ A touchless media controller built with **OpenCV** and **MediaPipe**, capable of
 
 ## 🔬 Areas of Interest
 
-`Explainable AI` `Machine Learning` `Data Analytics` `Computer Vision` `Business Intelligence`
+<p>
+<img src="https://img.shields.io/badge/Explainable_AI-9B59B6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Machine_Learning-E67E22?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data_Analytics-2ECC71?style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer_Vision-3498DB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Business_Intelligence-E74C3C?style=for-the-badge" />
+</p>
+
+<br />
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Diljeetkaur08&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Diljeetkaur08&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diljeetkaur08&layout=compact&hide_border=true" />
+</p>
+
+> ⚠️ Replace `Diljeetkaur08` in the stats links above with your exact GitHub username so the cards pull your real data.
 
 <br />
 
