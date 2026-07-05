@@ -186,7 +186,7 @@ A touchless media controller built using OpenCV and MediaPipe.
 
 ---
 
-<div align="center">
+<div align="center"> https://www.linkedin.com/in/diljeet-kaur-70a15736a/
 
 ### ⭐ Thanks for visiting my profile!
 
